@@ -10,15 +10,18 @@ See [PoC sources and correspondence](docs/POCS.md). The malware hash list is in 
 
 ## Citation
 
-If you use our work or implementation in your research, please consider citing our paper, accepted for publication in Cybersecurity:
+If you use our work or implementation in your research, please consider citing our paper, published in [Cybersecurity](https://doi.org/10.1186/s42400-026-00690-4) on 3 November 2026:
 
 ```bibtex
 @article{wang2026xmemguard,
   author = {Chengchun Wang and Xing Tian and Xiaoyu Wang and Yuxuan Zhu and Yaqin Cao and Jie Yin and Yuling Liu and Qixu Liu},
   title = {Real-Time Detection of Windows Shellcode Injection via the Cross-Process {W\^{}X} Principle},
   journal = {Cybersecurity},
+  volume = {9},
+  pages = {250},
   year = {2026},
-  note = {Accepted for publication}
+  doi = {10.1186/s42400-026-00690-4},
+  url = {https://doi.org/10.1186/s42400-026-00690-4}
 }
 ```
 
